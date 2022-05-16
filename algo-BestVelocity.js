@@ -38,7 +38,7 @@ bestVelocity([12, 9, 1, 5, 11, 5]);
 // Example 3:
 // Input: [76, 80]
 // Output: error
-// bestVelocity([76, 80]);
+bestVelocity([76, 80]);
 
 // Example 4:
 // Input: [76, 80, 81, 77, 83, 78, 80]
